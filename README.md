@@ -24,6 +24,7 @@ Install the required library via pip:
 
 ```bash
 pip install cryptography
+```
 
 
 ## GUI Usage
@@ -34,3 +35,19 @@ pip install cryptography
 | Segment Lengths     | Comma-separated lengths of each segment         | 100,80,60      |
 | Segment Index       | Index of the segment to rotate (0-based)        | 0 (first segment) |
 | Angle (degrees)     | Rotation angle for the selected segment         | 45 (degrees)   |
+
+
+## How To Run
+## How to Run
+
+1. Clone or download the project repository.
+
+2. Install the required library:
+
+```bash
+pip install cryptography
+```
+3. Run the main application script: robotic-arm-demo.py
+
+
+
