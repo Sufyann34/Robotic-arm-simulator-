@@ -1,0 +1,479 @@
+2025-05-31 14:08:46,224 - ERROR - Invalid angle input
+2025-05-31 14:08:52,861 - INFO - Moved arm to 34.0 degrees
+2025-05-31 14:08:56,115 - INFO - Moved arm to 34.0 degrees
+2025-05-31 14:40:25,664 - INFO - New user registered: sufyan
+2025-05-31 14:40:32,839 - ERROR - Invalid angle input
+2025-05-31 14:40:37,191 - ERROR - Invalid angle input
+2025-05-31 14:40:41,641 - ERROR - Invalid angle input
+2025-05-31 14:40:48,892 - ERROR - Invalid angle input
+2025-05-31 14:40:56,908 - ERROR - Invalid angle input
+2025-05-31 14:46:30,394 - INFO - New user registered: sufyan
+2025-05-31 14:46:36,359 - ERROR - Invalid angle input
+2025-05-31 14:46:43,173 - ERROR - Invalid angle input
+2025-05-31 14:51:04,841 - INFO - New user registered: sufyan
+2025-05-31 14:51:17,414 - INFO - Arm moved to 4.0°
+2025-05-31 14:51:19,320 - INFO - Arm moved to 2.0°
+2025-05-31 14:51:19,333 - INFO - Arm moved to 9.0°
+2025-05-31 14:51:19,353 - INFO - Arm moved to 17.0°
+2025-05-31 14:51:19,369 - INFO - Arm moved to 26.0°
+2025-05-31 14:51:19,385 - INFO - Arm moved to 34.0°
+2025-05-31 14:51:19,402 - INFO - Arm moved to 43.0°
+2025-05-31 14:51:19,419 - INFO - Arm moved to 49.0°
+2025-05-31 14:51:19,435 - INFO - Arm moved to 54.0°
+2025-05-31 14:51:19,452 - INFO - Arm moved to 58.0°
+2025-05-31 14:51:19,468 - INFO - Arm moved to 62.0°
+2025-05-31 14:51:19,485 - INFO - Arm moved to 66.0°
+2025-05-31 14:51:19,502 - INFO - Arm moved to 73.0°
+2025-05-31 14:51:19,519 - INFO - Arm moved to 79.0°
+2025-05-31 14:51:19,536 - INFO - Arm moved to 88.0°
+2025-05-31 14:51:19,552 - INFO - Arm moved to 92.0°
+2025-05-31 14:51:19,569 - INFO - Arm moved to 96.0°
+2025-05-31 14:51:19,585 - INFO - Arm moved to 99.0°
+2025-05-31 14:51:20,203 - INFO - Arm moved to 101.0°
+2025-05-31 14:51:20,217 - INFO - Arm moved to 109.0°
+2025-05-31 14:51:20,238 - INFO - Arm moved to 122.0°
+2025-05-31 14:51:20,253 - INFO - Arm moved to 137.0°
+2025-05-31 14:51:20,270 - INFO - Arm moved to 150.0°
+2025-05-31 14:51:20,286 - INFO - Arm moved to 161.0°
+2025-05-31 14:51:20,303 - INFO - Arm moved to 169.0°
+2025-05-31 14:51:20,319 - INFO - Arm moved to 176.0°
+2025-05-31 14:51:20,336 - INFO - Arm moved to 180.0°
+2025-05-31 14:51:20,350 - INFO - Arm moved to 184.0°
+2025-05-31 14:51:20,366 - INFO - Arm moved to 189.0°
+2025-05-31 14:51:20,386 - INFO - Arm moved to 193.0°
+2025-05-31 14:51:20,402 - INFO - Arm moved to 197.0°
+2025-05-31 14:51:20,419 - INFO - Arm moved to 201.0°
+2025-05-31 14:51:20,437 - INFO - Arm moved to 210.0°
+2025-05-31 14:51:20,451 - INFO - Arm moved to 216.0°
+2025-05-31 14:51:20,469 - INFO - Arm moved to 225.0°
+2025-05-31 14:51:20,486 - INFO - Arm moved to 234.0°
+2025-05-31 14:51:20,502 - INFO - Arm moved to 242.0°
+2025-05-31 14:51:20,519 - INFO - Arm moved to 251.0°
+2025-05-31 14:51:20,535 - INFO - Arm moved to 257.0°
+2025-05-31 14:51:20,552 - INFO - Arm moved to 264.0°
+2025-05-31 14:51:20,569 - INFO - Arm moved to 268.0°
+2025-05-31 14:51:20,586 - INFO - Arm moved to 270.0°
+2025-05-31 14:51:20,602 - INFO - Arm moved to 272.0°
+2025-05-31 14:51:20,649 - INFO - Arm moved to 274.0°
+2025-05-31 14:51:20,682 - INFO - Arm moved to 276.0°
+2025-05-31 14:51:20,699 - INFO - Arm moved to 281.0°
+2025-05-31 14:51:20,716 - INFO - Arm moved to 287.0°
+2025-05-31 14:51:20,733 - INFO - Arm moved to 296.0°
+2025-05-31 14:51:20,749 - INFO - Arm moved to 306.0°
+2025-05-31 14:51:20,765 - INFO - Arm moved to 321.0°
+2025-05-31 14:51:20,782 - INFO - Arm moved to 339.0°
+2025-05-31 14:51:20,799 - INFO - Arm moved to 351.0°
+2025-05-31 14:51:20,816 - INFO - Arm moved to 360.0°
+2025-05-31 14:51:21,536 - INFO - Arm moved to 349.0°
+2025-05-31 14:51:21,550 - INFO - Arm moved to 332.0°
+2025-05-31 14:51:21,571 - INFO - Arm moved to 317.0°
+2025-05-31 14:51:21,586 - INFO - Arm moved to 302.0°
+2025-05-31 14:51:21,603 - INFO - Arm moved to 291.0°
+2025-05-31 14:51:21,619 - INFO - Arm moved to 279.0°
+2025-05-31 14:51:21,636 - INFO - Arm moved to 268.0°
+2025-05-31 14:51:21,652 - INFO - Arm moved to 257.0°
+2025-05-31 14:51:21,669 - INFO - Arm moved to 246.0°
+2025-05-31 14:51:21,685 - INFO - Arm moved to 236.0°
+2025-05-31 14:51:21,702 - INFO - Arm moved to 227.0°
+2025-05-31 14:51:21,720 - INFO - Arm moved to 221.0°
+2025-05-31 14:51:21,735 - INFO - Arm moved to 214.0°
+2025-05-31 14:51:21,751 - INFO - Arm moved to 208.0°
+2025-05-31 14:51:21,768 - INFO - Arm moved to 199.0°
+2025-05-31 14:51:21,784 - INFO - Arm moved to 189.0°
+2025-05-31 14:51:21,801 - INFO - Arm moved to 176.0°
+2025-05-31 14:51:21,817 - INFO - Arm moved to 161.0°
+2025-05-31 14:51:21,834 - INFO - Arm moved to 144.0°
+2025-05-31 14:51:21,851 - INFO - Arm moved to 124.0°
+2025-05-31 14:51:21,868 - INFO - Arm moved to 105.0°
+2025-05-31 14:51:21,884 - INFO - Arm moved to 86.0°
+2025-05-31 14:51:21,901 - INFO - Arm moved to 69.0°
+2025-05-31 14:51:21,918 - INFO - Arm moved to 54.0°
+2025-05-31 14:51:21,935 - INFO - Arm moved to 41.0°
+2025-05-31 14:51:21,951 - INFO - Arm moved to 30.0°
+2025-05-31 14:51:21,968 - INFO - Arm moved to 21.0°
+2025-05-31 14:51:21,984 - INFO - Arm moved to 13.0°
+2025-05-31 14:51:22,002 - INFO - Arm moved to 6.0°
+2025-05-31 14:51:22,019 - INFO - Arm moved to 0.0°
+2025-05-31 14:51:22,735 - INFO - Arm moved to 6.0°
+2025-05-31 14:51:22,750 - INFO - Arm moved to 11.0°
+2025-05-31 14:51:22,772 - INFO - Arm moved to 13.0°
+2025-05-31 14:51:22,786 - INFO - Arm moved to 15.0°
+2025-05-31 14:51:22,803 - INFO - Arm moved to 17.0°
+2025-05-31 14:51:22,833 - INFO - Arm moved to 19.0°
+2025-05-31 14:51:22,900 - INFO - Arm moved to 21.0°
+2025-05-31 14:51:22,933 - INFO - Arm moved to 24.0°
+2025-05-31 14:51:22,966 - INFO - Arm moved to 26.0°
+2025-05-31 14:51:23,000 - INFO - Arm moved to 28.0°
+2025-05-31 14:51:23,033 - INFO - Arm moved to 30.0°
+2025-05-31 14:51:23,085 - INFO - Arm moved to 32.0°
+2025-05-31 14:51:23,135 - INFO - Arm moved to 34.0°
+2025-05-31 14:51:23,152 - INFO - Arm moved to 36.0°
+2025-05-31 14:51:23,183 - INFO - Arm moved to 39.0°
+2025-05-31 14:51:23,216 - INFO - Arm moved to 41.0°
+2025-05-31 14:51:23,250 - INFO - Arm moved to 43.0°
+2025-05-31 14:51:23,370 - INFO - Arm moved to 45.0°
+2025-05-31 14:51:23,384 - INFO - Arm moved to 47.0°
+2025-05-31 14:51:23,417 - INFO - Arm moved to 49.0°
+2025-05-31 14:51:23,450 - INFO - Arm moved to 51.0°
+2025-05-31 14:51:23,484 - INFO - Arm moved to 54.0°
+2025-05-31 14:51:23,534 - INFO - Arm moved to 56.0°
+2025-05-31 14:51:23,567 - INFO - Arm moved to 58.0°
+2025-05-31 14:51:23,600 - INFO - Arm moved to 60.0°
+2025-05-31 14:51:23,633 - INFO - Arm moved to 62.0°
+2025-05-31 14:51:23,666 - INFO - Arm moved to 64.0°
+2025-05-31 14:51:23,718 - INFO - Arm moved to 66.0°
+2025-05-31 14:51:23,836 - INFO - Arm moved to 69.0°
+2025-05-31 14:51:23,884 - INFO - Arm moved to 71.0°
+2025-05-31 14:51:23,935 - INFO - Arm moved to 73.0°
+2025-05-31 14:51:23,985 - INFO - Arm moved to 75.0°
+2025-05-31 14:51:24,035 - INFO - Arm moved to 77.0°
+2025-05-31 14:51:24,085 - INFO - Arm moved to 79.0°
+2025-05-31 14:51:24,100 - INFO - Arm moved to 81.0°
+2025-05-31 14:51:24,134 - INFO - Arm moved to 84.0°
+2025-05-31 14:51:24,167 - INFO - Arm moved to 86.0°
+2025-05-31 14:51:24,235 - INFO - Arm moved to 88.0°
+2025-05-31 14:51:24,336 - INFO - Arm moved to 90.0°
+2025-05-31 14:51:24,435 - INFO - Arm moved to 92.0°
+2025-05-31 14:51:25,069 - INFO - Arm moved to 94.0°
+2025-05-31 14:51:25,153 - INFO - Arm moved to 92.0°
+2025-05-31 14:51:25,270 - INFO - Arm moved to 90.0°
+2025-05-31 14:51:25,535 - INFO - Arm moved to 88.0°
+2025-05-31 14:51:26,453 - INFO - Arm moved to 90.0°
+2025-05-31 14:51:26,606 - INFO - Arm moved to 92.0°
+2025-05-31 14:51:26,720 - INFO - Arm moved to 94.0°
+2025-05-31 14:51:27,121 - INFO - Arm moved to 92.0°
+2025-05-31 14:51:28,387 - INFO - Arm moved to 90.0°
+2025-05-31 14:51:37,169 - INFO - Arm moved to 88.0°
+2025-05-31 14:51:37,184 - INFO - Arm moved to 86.0°
+2025-05-31 14:51:37,205 - INFO - Arm moved to 79.0°
+2025-05-31 14:51:37,220 - INFO - Arm moved to 73.0°
+2025-05-31 14:51:37,237 - INFO - Arm moved to 69.0°
+2025-05-31 14:51:37,253 - INFO - Arm moved to 64.0°
+2025-05-31 14:51:37,269 - INFO - Arm moved to 58.0°
+2025-05-31 14:51:37,285 - INFO - Arm moved to 54.0°
+2025-05-31 14:51:37,302 - INFO - Arm moved to 47.0°
+2025-05-31 14:51:37,319 - INFO - Arm moved to 43.0°
+2025-05-31 14:51:37,335 - INFO - Arm moved to 39.0°
+2025-05-31 14:51:37,352 - INFO - Arm moved to 32.0°
+2025-05-31 14:51:37,369 - INFO - Arm moved to 28.0°
+2025-05-31 14:51:37,385 - INFO - Arm moved to 26.0°
+2025-05-31 14:51:37,402 - INFO - Arm moved to 24.0°
+2025-05-31 14:51:37,419 - INFO - Arm moved to 21.0°
+2025-05-31 14:51:37,449 - INFO - Arm moved to 19.0°
+2025-05-31 14:51:37,482 - INFO - Arm moved to 17.0°
+2025-05-31 14:51:37,499 - INFO - Arm moved to 15.0°
+2025-05-31 14:51:37,516 - INFO - Arm moved to 13.0°
+2025-05-31 14:51:37,549 - INFO - Arm moved to 11.0°
+2025-05-31 14:51:37,582 - INFO - Arm moved to 9.0°
+2025-05-31 14:51:37,599 - INFO - Arm moved to 6.0°
+2025-05-31 14:51:37,616 - INFO - Arm moved to 4.0°
+2025-05-31 14:51:37,632 - INFO - Arm moved to 2.0°
+2025-05-31 14:51:37,666 - INFO - Arm moved to 0.0°
+2025-05-31 14:51:38,303 - INFO - Arm moved to 2.0°
+2025-05-31 14:51:38,370 - INFO - Arm moved to 4.0°
+2025-05-31 14:51:38,422 - INFO - Arm moved to 6.0°
+2025-05-31 14:51:38,469 - INFO - Arm moved to 9.0°
+2025-05-31 14:51:38,519 - INFO - Arm moved to 11.0°
+2025-05-31 14:51:39,370 - INFO - Arm moved to 13.0°
+2025-05-31 14:51:39,418 - INFO - Arm moved to 15.0°
+2025-05-31 14:51:39,468 - INFO - Arm moved to 17.0°
+2025-05-31 14:51:39,502 - INFO - Arm moved to 19.0°
+2025-05-31 14:51:39,552 - INFO - Arm moved to 21.0°
+2025-05-31 14:51:39,654 - INFO - Arm moved to 24.0°
+2025-05-31 14:51:40,021 - INFO - Arm moved to 26.0°
+2025-05-31 14:51:40,103 - INFO - Arm moved to 28.0°
+2025-05-31 14:51:40,202 - INFO - Arm moved to 30.0°
+2025-05-31 14:51:40,386 - INFO - Arm moved to 32.0°
+2025-05-31 14:51:40,486 - INFO - Arm moved to 34.0°
+2025-05-31 14:51:40,570 - INFO - Arm moved to 36.0°
+2025-05-31 14:51:40,686 - INFO - Arm moved to 39.0°
+2025-05-31 14:51:40,903 - INFO - Arm moved to 41.0°
+2025-05-31 14:51:41,186 - INFO - Arm moved to 43.0°
+2025-05-31 14:51:41,639 - INFO - Arm moved to 45.0°
+2025-05-31 14:51:41,802 - INFO - Arm moved to 47.0°
+2025-05-31 14:51:42,770 - INFO - Arm moved to 45.0°
+2025-05-31 14:51:44,736 - INFO - Arm moved to 47.0°
+2025-05-31 14:51:44,750 - INFO - Arm moved to 49.0°
+2025-05-31 14:51:44,771 - INFO - Arm moved to 56.0°
+2025-05-31 14:51:44,786 - INFO - Arm moved to 69.0°
+2025-05-31 14:51:44,803 - INFO - Arm moved to 81.0°
+2025-05-31 14:51:44,819 - INFO - Arm moved to 94.0°
+2025-05-31 14:51:44,835 - INFO - Arm moved to 107.0°
+2025-05-31 14:51:44,852 - INFO - Arm moved to 116.0°
+2025-05-31 14:51:44,869 - INFO - Arm moved to 124.0°
+2025-05-31 14:51:44,885 - INFO - Arm moved to 131.0°
+2025-05-31 14:51:44,902 - INFO - Arm moved to 137.0°
+2025-05-31 14:51:44,920 - INFO - Arm moved to 144.0°
+2025-05-31 14:51:44,935 - INFO - Arm moved to 148.0°
+2025-05-31 14:51:44,951 - INFO - Arm moved to 152.0°
+2025-05-31 14:51:44,968 - INFO - Arm moved to 159.0°
+2025-05-31 14:51:44,985 - INFO - Arm moved to 163.0°
+2025-05-31 14:51:45,002 - INFO - Arm moved to 165.0°
+2025-05-31 14:51:45,018 - INFO - Arm moved to 169.0°
+2025-05-31 14:51:45,035 - INFO - Arm moved to 174.0°
+2025-05-31 14:51:45,052 - INFO - Arm moved to 178.0°
+2025-05-31 14:51:45,068 - INFO - Arm moved to 180.0°
+2025-05-31 14:51:45,085 - INFO - Arm moved to 184.0°
+2025-05-31 14:51:45,102 - INFO - Arm moved to 186.0°
+2025-05-31 14:51:45,118 - INFO - Arm moved to 189.0°
+2025-05-31 14:51:45,135 - INFO - Arm moved to 191.0°
+2025-05-31 14:51:45,182 - INFO - Arm moved to 193.0°
+2025-05-31 14:51:45,284 - INFO - Arm moved to 195.0°
+2025-05-31 14:51:45,372 - INFO - Arm moved to 197.0°
+2025-05-31 14:51:45,553 - INFO - Arm moved to 195.0°
+2025-05-31 14:51:45,585 - INFO - Arm moved to 193.0°
+2025-05-31 14:51:45,618 - INFO - Arm moved to 191.0°
+2025-05-31 14:51:45,650 - INFO - Arm moved to 189.0°
+2025-05-31 14:51:45,667 - INFO - Arm moved to 186.0°
+2025-05-31 14:51:45,683 - INFO - Arm moved to 182.0°
+2025-05-31 14:51:45,700 - INFO - Arm moved to 180.0°
+2025-05-31 14:51:45,733 - INFO - Arm moved to 178.0°
+2025-05-31 14:51:45,766 - INFO - Arm moved to 176.0°
+2025-05-31 14:51:46,619 - INFO - Arm moved to 178.0°
+2025-05-31 14:51:46,720 - INFO - Arm moved to 180.0°
+2025-05-31 14:51:46,733 - INFO - Arm moved to 182.0°
+2025-05-31 14:51:46,784 - INFO - Arm moved to 186.0°
+2025-05-31 14:51:46,800 - INFO - Arm moved to 189.0°
+2025-05-31 14:51:46,816 - INFO - Arm moved to 195.0°
+2025-05-31 14:51:46,834 - INFO - Arm moved to 201.0°
+2025-05-31 14:51:46,849 - INFO - Arm moved to 206.0°
+2025-05-31 14:51:46,866 - INFO - Arm moved to 212.0°
+2025-05-31 14:51:46,882 - INFO - Arm moved to 216.0°
+2025-05-31 14:51:46,899 - INFO - Arm moved to 221.0°
+2025-05-31 14:51:46,916 - INFO - Arm moved to 223.0°
+2025-05-31 14:51:46,932 - INFO - Arm moved to 225.0°
+2025-05-31 14:51:46,949 - INFO - Arm moved to 227.0°
+2025-05-31 14:51:46,966 - INFO - Arm moved to 229.0°
+2025-05-31 14:51:46,982 - INFO - Arm moved to 231.0°
+2025-05-31 14:51:46,999 - INFO - Arm moved to 234.0°
+2025-05-31 14:51:47,016 - INFO - Arm moved to 236.0°
+2025-05-31 14:51:47,032 - INFO - Arm moved to 238.0°
+2025-05-31 14:51:47,049 - INFO - Arm moved to 240.0°
+2025-05-31 14:51:47,066 - INFO - Arm moved to 242.0°
+2025-05-31 14:51:47,082 - INFO - Arm moved to 244.0°
+2025-05-31 14:51:47,132 - INFO - Arm moved to 246.0°
+2025-05-31 14:51:47,216 - INFO - Arm moved to 249.0°
+2025-05-31 14:51:47,267 - INFO - Arm moved to 251.0°
+2025-05-31 14:51:47,318 - INFO - Arm moved to 253.0°
+2025-05-31 14:51:47,368 - INFO - Arm moved to 255.0°
+2025-05-31 14:51:47,400 - INFO - Arm moved to 257.0°
+2025-05-31 14:51:47,451 - INFO - Arm moved to 259.0°
+2025-05-31 14:51:47,483 - INFO - Arm moved to 261.0°
+2025-05-31 14:51:47,500 - INFO - Arm moved to 264.0°
+2025-05-31 14:51:47,533 - INFO - Arm moved to 266.0°
+2025-05-31 14:51:47,566 - INFO - Arm moved to 268.0°
+2025-05-31 14:51:47,600 - INFO - Arm moved to 270.0°
+2025-05-31 14:51:47,651 - INFO - Arm moved to 272.0°
+2025-05-31 14:51:47,683 - INFO - Arm moved to 274.0°
+2025-05-31 14:51:47,734 - INFO - Arm moved to 276.0°
+2025-05-31 14:51:47,767 - INFO - Arm moved to 279.0°
+2025-05-31 14:51:47,839 - INFO - Arm moved to 281.0°
+2025-05-31 14:51:47,901 - INFO - Arm moved to 283.0°
+2025-05-31 14:51:47,953 - INFO - Arm moved to 285.0°
+2025-05-31 14:51:47,983 - INFO - Arm moved to 287.0°
+2025-05-31 14:51:48,070 - INFO - Arm moved to 289.0°
+2025-05-31 14:51:48,152 - INFO - Arm moved to 291.0°
+2025-05-31 14:51:48,185 - INFO - Arm moved to 294.0°
+2025-05-31 14:51:48,218 - INFO - Arm moved to 296.0°
+2025-05-31 14:51:48,250 - INFO - Arm moved to 298.0°
+2025-05-31 14:51:48,283 - INFO - Arm moved to 300.0°
+2025-05-31 14:51:48,352 - INFO - Arm moved to 302.0°
+2025-05-31 14:51:48,436 - INFO - Arm moved to 304.0°
+2025-05-31 14:51:48,554 - INFO - Arm moved to 306.0°
+2025-05-31 14:51:48,636 - INFO - Arm moved to 309.0°
+2025-05-31 14:51:48,668 - INFO - Arm moved to 311.0°
+2025-05-31 14:51:48,683 - INFO - Arm moved to 313.0°
+2025-05-31 14:51:48,716 - INFO - Arm moved to 315.0°
+2025-05-31 14:51:48,750 - INFO - Arm moved to 317.0°
+2025-05-31 14:51:48,836 - INFO - Arm moved to 319.0°
+2025-05-31 14:51:48,936 - INFO - Arm moved to 321.0°
+2025-05-31 14:51:49,036 - INFO - Arm moved to 324.0°
+2025-05-31 14:51:49,136 - INFO - Arm moved to 326.0°
+2025-05-31 14:51:49,202 - INFO - Arm moved to 328.0°
+2025-05-31 14:51:49,268 - INFO - Arm moved to 330.0°
+2025-05-31 14:51:49,386 - INFO - Arm moved to 332.0°
+2025-05-31 14:51:49,452 - INFO - Arm moved to 334.0°
+2025-05-31 14:51:49,504 - INFO - Arm moved to 336.0°
+2025-05-31 14:51:49,553 - INFO - Arm moved to 339.0°
+2025-05-31 14:51:49,585 - INFO - Arm moved to 341.0°
+2025-05-31 14:51:49,635 - INFO - Arm moved to 343.0°
+2025-05-31 14:51:49,650 - INFO - Arm moved to 345.0°
+2025-05-31 14:51:49,683 - INFO - Arm moved to 347.0°
+2025-05-31 14:51:49,719 - INFO - Arm moved to 349.0°
+2025-05-31 14:51:49,749 - INFO - Arm moved to 351.0°
+2025-05-31 14:51:49,818 - INFO - Arm moved to 354.0°
+2025-05-31 14:51:49,868 - INFO - Arm moved to 356.0°
+2025-05-31 14:51:49,900 - INFO - Arm moved to 358.0°
+2025-05-31 14:51:49,951 - INFO - Arm moved to 360.0°
+2025-05-31 14:52:10,318 - WARNING - Failed login attempt - user not found: sufyan
+2025-05-31 14:52:20,749 - WARNING - Failed login attempt - user not found: sufyan
+2025-05-31 14:52:53,206 - INFO - New user registered: sufyan
+2025-05-31 14:53:11,849 - WARNING - Failed login attempt - user not found: sufyan
+2025-05-31 15:01:58,679 - INFO - New user registered: sufyan
+2025-05-31 15:02:16,933 - WARNING - Failed login attempt - user not found: sufyan
+2025-05-31 15:02:46,506 - INFO - New user registered: sufyan
+2025-05-31 15:03:01,281 - WARNING - Failed login attempt - user not found: sufyan
+2025-05-31 15:05:43,539 - INFO - User logged in: sufyan
+2025-05-31 15:05:50,540 - INFO - Arm moved to 6.0°
+2025-05-31 15:05:50,553 - INFO - Arm moved to 17.0°
+2025-05-31 15:05:50,569 - INFO - Arm moved to 32.0°
+2025-05-31 15:05:50,584 - INFO - Arm moved to 49.0°
+2025-05-31 15:05:50,601 - INFO - Arm moved to 64.0°
+2025-05-31 15:05:50,617 - INFO - Arm moved to 75.0°
+2025-05-31 15:05:50,634 - INFO - Arm moved to 84.0°
+2025-05-31 15:05:50,650 - INFO - Arm moved to 90.0°
+2025-05-31 15:05:50,667 - INFO - Arm moved to 94.0°
+2025-05-31 15:05:50,684 - INFO - Arm moved to 101.0°
+2025-05-31 15:05:50,701 - INFO - Arm moved to 105.0°
+2025-05-31 15:05:50,717 - INFO - Arm moved to 109.0°
+2025-05-31 15:05:50,733 - INFO - Arm moved to 118.0°
+2025-05-31 15:05:50,751 - INFO - Arm moved to 124.0°
+2025-05-31 15:05:50,767 - INFO - Arm moved to 131.0°
+2025-05-31 15:05:50,784 - INFO - Arm moved to 135.0°
+2025-05-31 15:05:50,801 - INFO - Arm moved to 139.0°
+2025-05-31 15:05:50,817 - INFO - Arm moved to 141.0°
+2025-05-31 15:05:50,848 - INFO - Arm moved to 144.0°
+2025-05-31 15:05:50,881 - INFO - Arm moved to 146.0°
+2025-05-31 15:05:50,898 - INFO - Arm moved to 148.0°
+2025-05-31 15:05:50,914 - INFO - Arm moved to 150.0°
+2025-05-31 15:05:50,931 - INFO - Arm moved to 154.0°
+2025-05-31 15:05:50,948 - INFO - Arm moved to 159.0°
+2025-05-31 15:05:50,964 - INFO - Arm moved to 167.0°
+2025-05-31 15:05:50,981 - INFO - Arm moved to 176.0°
+2025-05-31 15:05:50,998 - INFO - Arm moved to 184.0°
+2025-05-31 15:05:51,014 - INFO - Arm moved to 193.0°
+2025-05-31 15:05:51,031 - INFO - Arm moved to 201.0°
+2025-05-31 15:05:51,048 - INFO - Arm moved to 206.0°
+2025-05-31 15:05:51,064 - INFO - Arm moved to 212.0°
+2025-05-31 15:05:51,081 - INFO - Arm moved to 216.0°
+2025-05-31 15:05:51,099 - INFO - Arm moved to 221.0°
+2025-05-31 15:05:51,114 - INFO - Arm moved to 227.0°
+2025-05-31 15:05:51,131 - INFO - Arm moved to 234.0°
+2025-05-31 15:05:51,148 - INFO - Arm moved to 238.0°
+2025-05-31 15:05:51,164 - INFO - Arm moved to 244.0°
+2025-05-31 15:05:51,181 - INFO - Arm moved to 251.0°
+2025-05-31 15:05:51,198 - INFO - Arm moved to 255.0°
+2025-05-31 15:05:51,214 - INFO - Arm moved to 261.0°
+2025-05-31 15:05:51,231 - INFO - Arm moved to 268.0°
+2025-05-31 15:05:51,248 - INFO - Arm moved to 272.0°
+2025-05-31 15:05:51,265 - INFO - Arm moved to 276.0°
+2025-05-31 15:05:51,281 - INFO - Arm moved to 281.0°
+2025-05-31 15:05:51,298 - INFO - Arm moved to 285.0°
+2025-05-31 15:05:51,314 - INFO - Arm moved to 289.0°
+2025-05-31 15:05:51,331 - INFO - Arm moved to 291.0°
+2025-05-31 15:05:51,347 - INFO - Arm moved to 296.0°
+2025-05-31 15:05:51,364 - INFO - Arm moved to 300.0°
+2025-05-31 15:05:51,381 - INFO - Arm moved to 306.0°
+2025-05-31 15:05:51,398 - INFO - Arm moved to 315.0°
+2025-05-31 15:05:51,414 - INFO - Arm moved to 326.0°
+2025-05-31 15:05:51,431 - INFO - Arm moved to 336.0°
+2025-05-31 15:05:51,448 - INFO - Arm moved to 349.0°
+2025-05-31 15:05:51,465 - INFO - Arm moved to 360.0°
+2025-05-31 15:05:51,968 - INFO - Arm moved to 354.0°
+2025-05-31 15:05:51,983 - INFO - Arm moved to 317.0°
+2025-05-31 15:05:52,005 - INFO - Arm moved to 276.0°
+2025-05-31 15:05:52,018 - INFO - Arm moved to 231.0°
+2025-05-31 15:05:52,035 - INFO - Arm moved to 191.0°
+2025-05-31 15:05:52,051 - INFO - Arm moved to 161.0°
+2025-05-31 15:05:52,068 - INFO - Arm moved to 137.0°
+2025-05-31 15:05:52,084 - INFO - Arm moved to 116.0°
+2025-05-31 15:05:52,101 - INFO - Arm moved to 96.0°
+2025-05-31 15:05:52,119 - INFO - Arm moved to 79.0°
+2025-05-31 15:05:52,134 - INFO - Arm moved to 62.0°
+2025-05-31 15:05:52,150 - INFO - Arm moved to 45.0°
+2025-05-31 15:05:52,167 - INFO - Arm moved to 24.0°
+2025-05-31 15:05:52,184 - INFO - Arm moved to 0.0°
+2025-05-31 15:56:51,563 - INFO - User logged in: sufyan
+2025-05-31 15:57:19,251 - INFO - Set 2 segments with lengths [100, 80]
+2025-05-31 15:57:23,800 - INFO - Moved segment 0 to 0.0° (decrypted: <Command type=MOVE, data={'angle': 0.0}>)
+2025-05-31 15:57:28,243 - INFO - Moved segment 0 to 45.0° (decrypted: <Command type=MOVE, data={'angle': 45.0}>)
+2025-05-31 15:57:38,624 - INFO - Moved segment 0 to 45.0° (decrypted: <Command type=MOVE, data={'angle': 45.0}>)
+2025-05-31 15:57:42,844 - INFO - Moved segment 0 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:00:36,541 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:01:02,117 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:01:03,280 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:01:47,588 - INFO - Set 3 segments with lengths [100, 80, 60]
+2025-05-31 16:01:49,474 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:01:50,463 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:01:54,042 - INFO - Moved segment 2 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:06:34,182 - INFO - Moved segment 2 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:07:03,451 - INFO - Set 2 segments with lengths [100, 60]
+2025-05-31 16:07:11,676 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:07:19,787 - INFO - Set 2 segments with lengths [100, 90]
+2025-05-31 16:07:21,560 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:07:30,131 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:07:30,631 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:07:32,182 - INFO - Set 2 segments with lengths [100, 100]
+2025-05-31 16:07:33,660 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:08:10,966 - INFO - Set 4 segments with lengths [100, 80, 60, 30]
+2025-05-31 16:08:13,109 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:08:14,281 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:08:18,275 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:08:33,968 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:08:35,347 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:08:36,640 - INFO - Set 4 segments with lengths [100, 80, 60, 30]
+2025-05-31 16:08:38,360 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:08:39,983 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:08:42,706 - INFO - Set 4 segments with lengths [100, 80, 60, 30]
+2025-05-31 16:08:44,508 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:08:45,181 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:08:46,506 - INFO - Set 4 segments with lengths [100, 80, 60, 30]
+2025-05-31 16:08:48,689 - INFO - Set 4 segments with lengths [100, 80, 60, 30]
+2025-05-31 16:08:54,392 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:09:00,075 - INFO - Moved segment 2 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:09:06,359 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:09:23,731 - INFO - Set 5 segments with lengths [100, 80, 60, 30, 20]
+2025-05-31 16:09:27,734 - INFO - Moved segment 4 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:09:29,798 - INFO - Set 5 segments with lengths [100, 80, 60, 30, 20]
+2025-05-31 16:09:34,768 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:09:38,623 - INFO - Moved segment 2 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:09:45,008 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-05-31 16:09:51,894 - INFO - Moved segment 4 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:24:01,481 - WARNING - Failed login attempt - user not found: sufyan
+2025-06-01 19:24:33,615 - INFO - User logged in: sufyan
+2025-06-01 19:25:41,733 - INFO - Set 5 segments with lengths [100, 80, 60, 40, 20]
+2025-06-01 19:25:44,041 - INFO - Moved segment 4 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:25:45,519 - INFO - Moved segment 4 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:25:48,951 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:25:52,819 - INFO - Moved segment 2 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:25:56,585 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:25:59,932 - INFO - Moved segment 4 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:26:00,936 - INFO - Moved segment 4 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:26:06,369 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:26:07,252 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:26:07,518 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:26:08,598 - INFO - Set 5 segments with lengths [100, 80, 60, 40, 20]
+2025-06-01 19:26:16,885 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:26:29,301 - INFO - Moved segment 2 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:26:39,686 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:26:45,002 - INFO - Moved segment 4 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-01 19:27:35,931 - WARNING - Failed login attempt - user not found: sufyan
+2025-06-01 19:27:40,981 - INFO - User logged in: sufyan
+2025-06-01 19:37:15,597 - INFO - User logged in: sufyan
+2025-06-01 19:37:41,797 - WARNING - Failed login attempt - user not found: sufyan
+2025-06-01 19:37:45,230 - WARNING - Failed login attempt - user not found: sufyan
+2025-06-01 19:54:38,854 - INFO - New user registered: sufyan
+2025-06-01 20:44:04,364 - INFO - New user registered: sufyan
+2025-06-01 20:44:20,131 - INFO - User logged in: sufyan
+2025-06-01 20:44:37,012 - WARNING - Failed login attempt - user not found: sufyann
+2025-06-03 03:54:20,505 - INFO - User logged in: sufyan
+2025-06-03 03:54:51,023 - INFO - Set 2 segments with lengths [100, 80]
+2025-06-03 03:55:23,089 - INFO - Set 2 segments with lengths [100, 80]
+2025-06-03 03:55:39,847 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-03 03:55:57,506 - INFO - Set 4 segments with lengths [100, 80, 60, 40]
+2025-06-03 03:56:10,993 - INFO - Moved segment 1 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-03 03:56:17,609 - INFO - Moved segment 2 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-03 03:56:21,326 - INFO - Moved segment 3 to 90.0° (decrypted: <Command type=MOVE, data={'angle': 90.0}>)
+2025-06-03 03:57:46,357 - INFO - Set 5 segments with lengths [100, 80, 60, 40, 70]
+2025-06-03 03:57:55,126 - INFO - Moved segment 4 to 45.0° (decrypted: <Command type=MOVE, data={'angle': 45.0}>)
+2025-06-03 03:58:18,160 - INFO - Moved segment 3 to 45.0° (decrypted: <Command type=MOVE, data={'angle': 45.0}>)
+2025-06-03 03:58:44,110 - INFO - Moved segment 4 to 45.0° (decrypted: <Command type=MOVE, data={'angle': 45.0}>)
+2025-06-03 03:58:49,027 - INFO - Moved segment 2 to 45.0° (decrypted: <Command type=MOVE, data={'angle': 45.0}>)
+2025-06-03 03:58:53,011 - INFO - Moved segment 1 to 45.0° (decrypted: <Command type=MOVE, data={'angle': 45.0}>)
+2025-06-03 04:06:26,752 - INFO - User logged in: sufyan
+2025-06-04 03:11:58,349 - INFO - User logged in: sufyan
+2025-06-04 03:12:22,183 - INFO - Set 3 segments with lengths [100, 80, 60]
+2025-06-04 03:12:31,141 - INFO - Moved segment 0 to 40.0° (decrypted: <Command type=MOVE, data={'angle': 40.0}>)
+2025-06-04 03:12:48,686 - INFO - Moved segment 1 to 60.0° (decrypted: <Command type=MOVE, data={'angle': 60.0}>)
+2025-06-04 03:13:26,753 - INFO - Moved segment 2 to 87.0° (decrypted: <Command type=MOVE, data={'angle': 87.0}>)
+2025-06-04 03:13:39,052 - INFO - Moved segment 2 to 20.0° (decrypted: <Command type=MOVE, data={'angle': 20.0}>)
